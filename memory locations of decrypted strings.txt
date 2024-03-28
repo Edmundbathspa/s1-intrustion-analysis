@@ -1,0 +1,9 @@
+filename: 0040BBC0 = C:\Users\Petrov\Desktop\Payroll_Pamela5513.ppt and C:\Users\Petrov\Desktop\receipt_Diana377.pptx
+
+servername: 0040B9C0 = ftp.adrive.com
+
+username: 0040B3C0 = pavel.gladyshev@ucd.ie
+
+password: 0040BFC0 = Pa$hka123
+
+commandline: 0040C1C0 = 20944.exe
